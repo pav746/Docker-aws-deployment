@@ -69,15 +69,15 @@ http://<your-ec2-public-ip>
 
 ### 🔹 EC2 Instance
 
-![EC2](screenshots/ec2-instance.png)
+![EC2](screenshots/Ec2.png)
 
 ### 🔹 Website Live
 
-![Website](screenshots/website-live.png)
+![Website](screenshots/website.png)
 
 ### 🔹 Docker Container Running
 
-![Docker](screenshots/docker-ps.png)
+![Docker](screenshots/docker.png)
 
 ---
 
